@@ -1,0 +1,33 @@
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.exe.config
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.exe
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.pdb
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3- library-lib.pdb
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.AssemblyReference.cache
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CoreCompileInputs.cache
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CopyComplete
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.exe
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.pdb
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.exe.config
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.exe
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3-library-app.pdb
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\ce103-hw3- library-lib.pdb
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.AssemblyReference.cache
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CoreCompileInputs.cache
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CopyComplete
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.exe
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.pdb
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.AssemblyReference.cache
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.SuggestedBindingRedirects.cache
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CoreCompileInputs.cache
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\ce103-hw3-library-app.csproj.CopyComplete
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\libraryManagerApp.exe.config
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\libraryManagerApp.exe
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\libraryManagerApp.pdb
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\libraryManagerDll.dll
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\bin\Debug\libraryManagerDll.pdb
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\libraryManagerApp.exe
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3-library-app\obj\Debug\libraryManagerApp.pdb
