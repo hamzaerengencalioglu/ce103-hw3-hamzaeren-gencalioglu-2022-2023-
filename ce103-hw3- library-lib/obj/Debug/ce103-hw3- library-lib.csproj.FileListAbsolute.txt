@@ -1,0 +1,18 @@
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\bin\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\bin\Debug\ce103-hw3- library-lib.pdb
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.AssemblyReference.cache
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.CoreCompileInputs.cache
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\source\repos\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.pdb
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\bin\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\bin\Debug\ce103-hw3- library-lib.pdb
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.AssemblyReference.cache
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.CoreCompileInputs.cache
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.dll
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.pdb
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.AssemblyReference.cache
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\ce103-hw3- library-lib.csproj.CoreCompileInputs.cache
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\bin\Debug\libraryManagerDll.dll
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\bin\Debug\libraryManagerDll.pdb
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\libraryManagerDll.dll
+C:\ce103-hw3-hamzaeren-gencalioglu\ce103-hw3\ce103-hw3- library-lib\obj\Debug\libraryManagerDll.pdb
